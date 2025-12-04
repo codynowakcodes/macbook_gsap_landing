@@ -1,4 +1,3 @@
-import React from 'react'
 import NavBar from './components/Navbar'
 import Hero from './components/Hero'
 import ProductViewer from './components/ProductViewer'
